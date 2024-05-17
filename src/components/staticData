@@ -1,0 +1,1308 @@
+
+ const staticData={
+"status": "ok",
+"totalResults": 8903,
+-"articles": [
+-{
+-"source": {
+"id": null,
+"name": "BusinessLine"
+},
+"author": "Amiti Sen",
+"title": "Govt continuing to work on detailed guidelines for electric vehicle policy",
+"description": "Tesla yet to share its India plans for investment in EVs",
+"url": "https://www.thehindubusinessline.com/economy/govt-continuing-to-work-on-detailed-guidelines-for-electric-vehicle-policy/article68187399.ece",
+"urlToImage": "https://bl-i.thgim.com/public/incoming/7feg/article68187469.ece/alternates/LANDSCAPE_1200/2024-01-17T115608Z_1059255873_RC2683AZO293_RTRMADP_3_INDIA-HYBRIDS-TAX.JPG",
+"publishedAt": "2024-05-17T15:04:22Z",
+"content": "The government is continuing to work on detailed guidelines for the E-vehicle policy that was announced earlier this year to promote India as a EV manufacturing destination but there is no word yet f… [+1908 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Futurism"
+},
+"author": "Victor Tangermann",
+"title": "Tesla Video Showing Cybertruck Beating Porsche 911 While Towing Porsche 911 Was a Lie, Independent Test Demonstrates",
+"description": "Rigged Race In December, Tesla released a promotional video, showing a Cybertruck beating a different Porsche 911 in a quarter-mile race — while towing a Porsche 911. And while we've already had our doubts about the validity of the unusual matchup, MotorTrend…",
+"url": "https://futurism.com/the-byte/video-cybertruck-porsche-911-tests",
+"urlToImage": "https://wp-assets.futurism.com/2024/05/video-cybertruck-porsche-911-tests.jpg",
+"publishedAt": "2024-05-17T15:00:49Z",
+"content": "The debate is finally settled.\r\nRigged Race\r\nIn December, Tesla released a promotional video showing a Cybertruck beating a Porsche 911 in a quarter-mile race while towing a different Porsche 911.\r\nA… [+2311 chars]"
+},
+-{
+-"source": {
+"id": "the-verge",
+"name": "The Verge"
+},
+"author": "Umar Shakir",
+"title": "New Teslas might lose Steam",
+"description": "A new Tesla Model X Long Range customer was told Steam is no longer available. CEO Elon Musk hyped PC gaming in the redesigned Model S.",
+"url": "https://www.theverge.com/2024/5/17/24158929/tesla-steam-discontinue-new-model-x-delivery-s-cybertruck",
+"urlToImage": "https://cdn.vox-cdn.com/thumbor/vgmzlb9VGtHR0V15e_C_P3HmxGc=/0x0:2281x1521/1200x628/filters:focal(1141x761:1142x762)/cdn.vox-cdn.com/uploads/chorus_asset/file/24323284/Screenshot_2022_12_29_at_3.29.06_AM.jpeg",
+"publishedAt": "2024-05-17T14:55:04Z",
+"content": "New Teslas might lose Steam\r\nNew Teslas might lose Steam\r\n / Tesla tells a new customer their Model X wont come with support for Steam games.\r\nByUmar Shakir, a news writer fond of the electric vehicl… [+2036 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "WebProNews"
+},
+"author": "Rich Ord",
+"title": "Elon Musk Leaks More Info on Tesla’s Next Big Leap: The Model 2 … or is it Dead?",
+"description": "As Tesla continues to push the boundaries of automotive innovation, the Model 2 is set to become a game-changer in terms of both performance and affordability.\n\n\"The new products we are designing and the manufacturing techniques we are developing are head and…",
+"url": "https://www.webpronews.com/elon-musk-leaks-more-info-on-teslas-next-big-leap-the-model-2-or-is-it-dead/",
+"urlToImage": "https://www.webpronews.com/wp-content/uploads/2024/05/Screenshot-2024-05-17-at-10.29.07 AM.jpg",
+"publishedAt": "2024-05-17T14:49:30Z",
+"content": "In a bombshell revelation, Elon Musk has unveiled Tesla’s groundbreaking approach to producing the highly anticipated Model 2, igniting excitement across the electric vehicle industry. The leak, whic… [+23984 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "DW (English)"
+},
+"author": "Zulfikar Abbany, Fred Schwaller",
+"title": "AI Lexicon: X is for x.AI",
+"description": "Do you know your AI from your ML? Or your facial recognition from your Ethical AI? Our AI Lexicon offers easy-to-understand definitions and examples of AI in everyday life. It really is what you need to know. x.AI\n\nThis straight from the company website: \"xAI…",
+"url": "https://www.dw.com/en/ai-lexicon-x-is-for-xai/a-69086947",
+"urlToImage": "https://static.dw.com/image/69049177_6.jpg",
+"publishedAt": "2024-05-17T14:36:00Z",
+"content": "This straight from the company website: \"xAI is a new company working on building artificial intelligence to accelerate human scientific discovery. We are guided by our mission to advance our collect… [+1230 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "AppleInsider"
+},
+"author": "news@appleinsider.com (William Gallagher)",
+"title": "Berlin Apple Store vandalized by Congo activists",
+"description": "Protesting the alleged exploitation of the Congo by tech firms including Apple, activists have spray-painted Berlin's Apple Rosenthaler Strasse store.Berlin Apple Store vandalized (Source: Nexta.tv)Apple has been accused of its supply chain using what are cal…",
+"url": "https://appleinsider.com/articles/24/05/17/berlin-apple-store-vandalized-by-congo-activists",
+"urlToImage": "https://photos5.appleinsider.com/gallery/59710-122034-000-lead-Berlin-xl.jpg",
+"publishedAt": "2024-05-17T14:35:43Z",
+"content": "Berlin Apple Store vandalized (Source: Nexta.tv)\r\nProtesting the alleged exploitation of the Congo by tech firms including Apple, activists have spray-painted Berlin's Apple Rosenthaler Strasse store… [+2378 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Digital Trends"
+},
+"author": "Stephen Edelstein",
+"title": "Honda believes hydrogen semi trucks will make the case for fuel cells",
+"description": "Honda is the latest of several automakers to apply its fuel-cell tech to big commercial trucks as well as passenger cars.",
+"url": "https://www.digitaltrends.com/cars/honda-hydrogen-fuel-cell-semi-truck/",
+"urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/05/Honda-Class-8-Hydrogen-Fuel-Cell-Truck-Concept_1.jpeg?resize=1200%2C630&p=1",
+"publishedAt": "2024-05-17T14:15:57Z",
+"content": "Honda\r\nHonda remains committed to hydrogen fuel-cell vehicles, but the market for those vehicles remains limited. So Honda is looking at other uses for fuel cells — including commercial trucks.\r\nTo s… [+2858 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Sam Abuelsamid, Senior Contributor, \n Sam Abuelsamid, Senior Contributor\n https://www.forbes.com/sites/samabuelsamid/",
+"title": "Honda Debuts Hydrogen Fuel Cell Semi Concept At ACT Expo",
+"description": "Honda is unveiling a hydrogen fuel cell powered class 8 semi tractor at ACT Expo 2024 in Las Vegas.",
+"url": "https://www.forbes.com/sites/samabuelsamid/2024/05/17/honda-debuts-hydrogen-fuel-cell-semi-concept-at-act-expo/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66465a05e2a2e33203564829/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+"publishedAt": "2024-05-17T14:15:00Z",
+"content": "Honda hydrogen fuel cell class 8 truck concept\r\nHonda\r\nHonda has been one of the longest running proponents of hydrogen fuel cell technology in the automotive industry. The first FCX prototypes debut… [+4164 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Erickimphotography.com"
+},
+"author": "ERIC KIM",
+"title": "Depleting energy too quickly",
+"description": "Too rapid of a rate ￼ Paper money is cotton candy Dilution of money ￼￼ You don’t want to change the gravity 2.1 quadrillion Satoshis Mathematically complete system Hardest to impair ￼￼￼, Not all capital is fungible Self upgrade Dematerialize Higher velocity D…",
+"url": "https://erickimphotography.com/blog/2024/05/17/depleting-energy-too-quickly/",
+"urlToImage": null,
+"publishedAt": "2024-05-17T14:08:56Z",
+"content": "Too rapid of a rate \r\nPaper money is cotton candy\r\nDilution of money \r\nYou dont want to change the gravity\r\n2.1 quadrillion Satoshis\r\nMathematically complete system\r\nHardest to impair\r\n,\r\nNot all cap… [+1668 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Erickimphotography.com"
+},
+"author": "ERIC KIM",
+"title": "0 to 1 Innovation",
+"description": "Difficulty adjustment; as time goes on, you must make it more difficult! ￼Bitcoin Philosophy to Real Life Increasing your own personal hash rate Competitive work Bitcoin is a microcosm of capitalism Which fields to enter? Don’t enter field that you’ll just ma…",
+"url": "https://erickimphotography.com/blog/2024/05/17/0-to-1-innovation/",
+"urlToImage": null,
+"publishedAt": "2024-05-17T14:08:23Z",
+"content": "Difficulty adjustment; as time goes on, you must make it more difficult!\r\nBitcoin Philosophy to Real Life\r\nIncreasing your own personal hash rate\r\nCompetitive work\r\nBitcoin is a microcosm of capitali… [+1271 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Electrek"
+},
+"author": "Fred Lambert",
+"title": "Tesla plans a data center for self-driving in China, report says",
+"description": "Tesla is reportedly in the early stages of planning to build a data center to train its self-driving AI in China.l\n\n\n\n more…",
+"url": "http://electrek.co/2024/05/17/tesla-plans-data-center-self-driving-in-china-report-says/",
+"urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/08/Tesla-Data-Center.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2024-05-17T14:06:11Z",
+"content": "Electrek's concept image of a Tesla Data Center\r\nTesla is reportedly in the early stages of planning to build a data center to train its self-driving AI in China.l\r\nAccording to a new report from Reu… [+1692 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "euronews.com",
+"title": "Tesla gets green light to expand German plant as protesters win revision to plans",
+"description": "Approval to expand its first European plant was given after Tesla revised its original proposals following anger at the proposed felling of more than 100 hectares of trees. Local councillors at the Grünheide municipality just outside Berlin gave Tesla the gre…",
+"url": "https://biztoc.com/x/df46cfc1952c3654",
+"urlToImage": "https://c.biztoc.com/p/df46cfc1952c3654/s.webp",
+"publishedAt": "2024-05-17T14:04:08Z",
+"content": "Approval to expand its first European plant was given after Tesla revised its original proposals following anger at the proposed felling of more than 100 hectares of trees.Local councillors at the Gr… [+276 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "The Daily Dot"
+},
+"author": "Braden Bjella",
+"title": "‘What is happening?’: Mechanic warns of $400 charge that new Chevrolet cars may force you into adding to your service bill",
+"description": "Owning a car comes with a lot of unexpected costs. According to AAA, the average car owner will spend $792 per year on maintenance alone—and that’s not including other car costs like insurance and tires.\n\n\nAdditionally, as cars have become more technologicall…",
+"url": "https://www.dailydot.com/news/chevrolet-mechanic-400-dollar-tool/",
+"urlToImage": "https://uploads.dailydot.com/2024/05/tahoe-neutral-tool.jpg?auto=compress&fm=pjpg",
+"publishedAt": "2024-05-17T14:00:00Z",
+"content": "Owning a car comes with a lot of unexpected costs. According to AAA, the average car owner will spend $792 per year on maintenance aloneand thats not including other car costs like insurance and tire… [+3226 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Autoblog"
+},
+"author": "Reuters",
+"title": "UAW's influence tested in pivotal Alabama Mercedes-Benz factory union vote",
+"description": "Filed under:\n Plants/Manufacturing,UAW/Unions,Mercedes-Benz\n Continue reading UAW's influence tested in pivotal Alabama Mercedes-Benz factory union vote\nUAW's influence tested in pivotal Alabama Mercedes-Benz factory union vote originally appeared on Autoblog…",
+"url": "https://www.autoblog.com/2024/05/17/uaws-influence-tested-in-pivotal-alabama-mercedes-benz-factory-union-vote/",
+"urlToImage": "https://s.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2024/05/17094844/mercedes_automotive_plant__as_workers_vote_on_whether_to_join_the_uaw__in_vance__alabama.jpeg",
+"publishedAt": "2024-05-17T14:00:00Z",
+"content": "VANCE, Alabama The outcome of a vote on Friday by workers at a Mercedes-Benz factory in Alabama will be a key referendum on whether the United Auto Workers can maintain momentum in the historically a… [+4747 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "finbold.com",
+"title": "Market expert sets DOGE price to ‘$0.49 and beyond’ soon",
+"description": "Despite many assets in the cryptocurrency industry starting to move in a more positive direction, Dogecoin (DOGE) seems to still be waiting for an upwards trigger, but one crypto expert believes that traders of the popular doge meme token might not wait for m…",
+"url": "https://biztoc.com/x/3600d694276d33d7",
+"urlToImage": "https://c.biztoc.com/p/3600d694276d33d7/s.webp",
+"publishedAt": "2024-05-17T13:54:09Z",
+"content": "Despite many assets in the cryptocurrency industry starting to move in a more positive direction, Dogecoin (DOGE) seems to still be waiting for an upwards trigger, but one crypto expert believes that… [+272 chars]"
+},
+-{
+-"source": {
+"id": "cbs-news",
+"name": "CBS News"
+},
+"author": "Kathryn Watson",
+"title": "Biden's Chinese EV tariffs don't address lingering national security concerns",
+"description": "The 100% Chinese EV tariffs are meant to head off economic risks, but some Democrats say Chinese EVs should be banned entirely for security reasons.",
+"url": "https://www.cbsnews.com/news/bidens-chinese-ev-tariffs-dont-address-lingering-national-security-concerns/",
+"urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/05/15/c347b061-4f66-4dde-ab91-c91c7f0851c7/thumbnail/1200x630/e5316119681c559e161dfb2d02c663c5/ap24135442078563.jpg?v=dac66bdad19d0be8e87f46552b582682",
+"publishedAt": "2024-05-17T13:41:21Z",
+"content": "President Biden's move to quadruple tariffs on Chinese electric vehicles isn't meant to head off any potential national security threats posed by internet-connected vehicles made in China, but some p… [+6604 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Finextra"
+},
+"author": "Editorial Team",
+"title": "Are you brave enough to look beyond ‘Lift and shift’? (Zubin Limbuvala)",
+"description": "What do cloud solutions have in common with the electric vehicle industry? On the face of it not muc...",
+"url": "https://www.finextra.com/blogposting/26188/are-you-brave-enough-to-look-beyond-lift-and-shift",
+"urlToImage": "https://www.finextra.com/finextra-images/member_photos/thumb_161853_zubin_limbuvala_13.jpg",
+"publishedAt": "2024-05-17T13:41:09Z",
+"content": "What do cloud solutions have in common with the electric vehicle industry? On the face of it not much. \r\nCorporate successes in the last few years have proven that slow evolution and retro fitment ar… [+7001 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Quartz India"
+},
+"author": "Owen Bellwood / Jalopnik",
+"title": "Tesla sales keep slipping — but it's still dominating the electric car market",
+"description": "Tesla might have had a little win Thursday when it emerged that the Cybertruck was officially the second-best-selling electric pickup truck in America, but it isn’t quite out of the woods just yet. After reporting a massive 25% drop in new car registrations i…",
+"url": "https://qz.com/tesla-sales-registrations-evs-electric-cars-us-market-1851484209",
+"urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b274d9bff74cd1f2e3fa30bd9b636139.jpg",
+"publishedAt": "2024-05-17T13:36:26Z",
+"content": "Tesla might have had a little win Thursday when it emerged that the Cybertruck was officially the second-best-selling electric pickup truck in America, but it isnt quite out of the woods just yet. Af… [+1619 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "investors.com",
+"title": "This Lidar Stock Is Surging While Tesla Looks To Build Self-Driving Data Center In China",
+"description": "Ouster is up more than 50% in 2024 and has been rallying since reporting earnings last week. The post This Lidar Stock Is Surging While Tesla Looks To Build Self-Driving Data Center In China appeared first on Investor's Business Daily.#teslalooks",
+"url": "https://biztoc.com/x/ba7574cd360b9132",
+"urlToImage": "https://c.biztoc.com/274/og.png",
+"publishedAt": "2024-05-17T13:36:20Z",
+"content": "Ouster is up more than 50% in 2024 and has been rallying since reporting earnings last week. The post This Lidar Stock Is Surging While Tesla Looks To Build Self-Driving Data Center In China appeared… [+99 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "aol.com",
+"title": "Elon Musk is walking a fine line in China with Tesla",
+"description": "None Elon Musk has a lot going on in China right now. • None Amid dwindling Tesla sales, he's building closer relations there and putting focus on robotaxis. • None It's a move that present a lot of uncertainty for his EV company. Elon Musk has plenty on the …",
+"url": "https://biztoc.com/x/ce527c4bb45f2a99",
+"urlToImage": "https://c.biztoc.com/p/ce527c4bb45f2a99/s.webp",
+"publishedAt": "2024-05-17T13:34:14Z",
+"content": "None Elon Musk has a lot going on in China right now.None Amid dwindling Tesla sales, he's building closer relations there and putting focus on robotaxis.None It's a move that present a lot of uncert… [+258 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "aol.com",
+"title": "These tiny EVs are making a big impact",
+"description": "None Tiny EVs like the Nissan Sakura and BYD's Seagull are challenging Tesla in Japan and China. • None But these minuscule motors are unlikely to come to the US anytime soon. • None That's a shame, as data suggests drivers would quite like their EVs to be sm…",
+"url": "https://biztoc.com/x/fd3f4bfd6300da43",
+"urlToImage": "https://c.biztoc.com/p/fd3f4bfd6300da43/s.webp",
+"publishedAt": "2024-05-17T13:34:13Z",
+"content": "None Tiny EVs like the Nissan Sakura and BYD's Seagull are challenging Tesla in Japan and China.None But these minuscule motors are unlikely to come to the US anytime soon.None That's a shame, as dat… [+261 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": null,
+"title": "Tesla chair sees challenges in getting shareholder vote for Musk's pay package, FT reports",
+"description": null,
+"url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_aa681f72-bde5-423f-a726-fef6e6c0ba48",
+"urlToImage": null,
+"publishedAt": "2024-05-17T13:31:44Z",
+"content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Marketscreener.com"
+},
+"author": null,
+"title": "Tesla chair sees challenges in getting shareholder vote for Musk's pay package, FT reports",
+"description": "(marketscreener.com) Tesla's chair of the board\nsaid the company needs to climb \"Mount Everest\" as it faces\nshareholder votes on relocating to Texas and CEO Elon Musk's $56\nbillion pay deal, the Financial Times reported on Friday.\n Robyn Denholm, who has held…",
+"url": "https://www.marketscreener.com/quote/stock/TESLA-INC-6344549/news/Tesla-chair-sees-challenges-in-getting-shareholder-vote-for-Musk-s-pay-package-FT-reports-46760584/",
+"urlToImage": "https://www.marketscreener.com/images/reuters/2024-05/2024-05-15T100216Z_1_LYNXMPEK4E0FD_RTROPTP_3_TESLA-SUPERCHARGERS.JPG",
+"publishedAt": "2024-05-17T13:30:22Z",
+"content": "May 17 (Reuters) - Tesla's chair of the board\r\nsaid the company needs to climb \"Mount Everest\" as it faces\r\nshareholder votes on relocating to Texas and CEO Elon Musk's $56\r\nbillion pay deal, the Fin… [+1246 chars]"
+},
+-{
+-"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "PTI",
+"title": "Tesla 'silent'; yet to communicate its India plans: Official",
+"description": "American tech billionaire Elon Musk, who was scheduled to visit India on April 21-22, had postponed his visit at the last moment citing \"very heavy Tesla obligations\".",
+"url": "https://economictimes.indiatimes.com/industry/renewables/tesla-silent-yet-to-communicate-its-india-plans-official/articleshow/110212731.cms",
+"urlToImage": "https://img.etimg.com/thumb/msid-110212798,width-1200,height-630,imgsize-248372,overlay-economictimes/photo.jpg",
+"publishedAt": "2024-05-17T13:26:55Z",
+"content": "US electric carmaker Tesla is 'silent' and yet to communicate its India plans to the government under the new EV policy, an official said on Friday. American tech billionaire Elon Musk, who was sched… [+3467 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Dealcatcher.com"
+},
+"author": null,
+"title": "Amazon - Adjustable Front License Plate Holder Mount for 2023-2020 Tesla Model Y 3 $24.99",
+"description": "Save 50% and get this Adjustable Front License Plate Holder Mount for 2023-2020 Tesla Model Y 3 at Amazon for $24.99 after coupon code. Shipping is free with $25 or with Amazon Prime.<br /><br /><strong>More Ways to Save at Amazon:</strong><ul><li>Don't alrea…",
+"url": "https://www.dealcatcher.com/automotive?offer=998234519",
+"urlToImage": "https://app.dealcatcher.com/bigly/998234519-723.png",
+"publishedAt": "2024-05-17T13:24:04Z",
+"content": "$24.99$49.99 (50% off) at Amazon\r\n With coupon code: PDU3MLL2PDU3MLL2\r\nSave 50% and get this Adjustable Front License Plate Holder Mount for 2023-2020 Tesla Model Y 3 at Amazon for $24.99 after coupo… [+214 chars]"
+},
+-{
+-"source": {
+"id": "financial-post",
+"name": "Financial Post"
+},
+"author": "Bloomberg News",
+"title": "15 people reach US$100 billion net worth, more than ever before",
+"description": "Amazon.com founder Jeff Bezos and Tesla CEO Elon Musk are among the 15 people with fortunes of US$100 billion. See who cracked the list.",
+"url": "https://financialpost.com/personal-finance/high-net-worth/15-people-reach-us100-billion-net-worth-more-than-ever-before",
+"urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/05/0518-bc-billionaires.jpg",
+"publishedAt": "2024-05-17T13:23:45Z",
+"content": "Their combined wealth is up 13 per cent this year to US$2.2 trillion\r\nAuthor of the article:\r\nAmazon.com Inc. founder Jeff Bezos, 60, ranks second with a net worth of US$208 billion.Photo by Emma McI… [+5129 chars]"
+},
+-{
+-"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "PTI",
+"title": "Govt to come out with detailed guidelines for investment under EV policy",
+"description": "The government, through the Ministry of Heavy Industries, is creating detailed guidelines for companies seeking investments under the electric-vehicle policy. The guidelines will cover duty concessions, setting up manufacturing units, and incentives for auto …",
+"url": "https://economictimes.indiatimes.com/industry/renewables/govt-to-come-out-with-detailed-guidelines-for-investment-under-ev-policy/articleshow/110212551.cms",
+"urlToImage": "https://img.etimg.com/thumb/msid-110212598,width-1200,height-630,imgsize-53520,overlay-economictimes/photo.jpg",
+"publishedAt": "2024-05-17T13:20:00Z",
+"content": "The government is working on detailed guidelines for companies looking at investments under the electric-vehicle (EV) policy, and a second round of consultation with stakeholders is expected soon, an… [+2884 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "scmp.com",
+"title": "Shanghai releases white list to expedite overseas data transfers for companies",
+"description": "The release of that list has made Shanghai the first city on the mainland to implement concrete local rules to expedite the flow of general data overseas, several months after it opened an industrial estate focused on the data industry The first batch of this…",
+"url": "https://biztoc.com/x/5e2dec18bbb63664",
+"urlToImage": "https://c.biztoc.com/p/5e2dec18bbb63664/s.webp",
+"publishedAt": "2024-05-17T13:14:08Z",
+"content": "The release of that list has made Shanghai the first city on the mainland to implement concrete local rules to expedite the flow of general data overseas, several months after it opened an industrial… [+287 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "businessinsider.com",
+"title": "Elon Musk is walking a fine line in China with Tesla",
+"description": "Elon Musk. Beata Zawrzel/Getty Images Elon Musk has a lot going on in China right now. Amid dwindling Tesla sales, he's building closer relations there and putting focus on robotaxis. It's a move that present a lot of uncertainty for his EV company. Elon Musk…",
+"url": "https://biztoc.com/x/b0924c9dbd6ecf72",
+"urlToImage": "https://c.biztoc.com/p/b0924c9dbd6ecf72/s.webp",
+"publishedAt": "2024-05-17T13:08:03Z",
+"content": "Elon Musk.Beata Zawrzel/Getty ImagesElon Musk has a lot going on in China right now.Amid dwindling Tesla sales, he's building closer relations there and putting focus on robotaxis.It's a move that pr… [+277 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Securityaffairs.com"
+},
+"author": "Pierluigi Paganini",
+"title": "City of Wichita disclosed a data breach after the recent ransomware attack",
+"description": "The City of Wichita disclosed a data breach after the ransomware attack that hit the Kansas’s city earlier this month. On May 5th, 2024, the City of Wichita, Kansas, was the victim of a ransomware attack and shut down its network to contain the threat. The ci…",
+"url": "https://securityaffairs.com/163300/cyber-crime/city-of-wichita-disclosed-data-breach.html",
+"urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/05/image-6.png",
+"publishedAt": "2024-05-17T13:04:18Z",
+"content": "City of Wichita disclosed a data breach after the recent ransomware attack\r\n | CISA adds D-Link DIR router flaws to its Known Exploited Vulnerabilities catalog\r\n | \r\nCISA adds Google Chrome zero-days… [+69363 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "benzinga.com",
+"title": "NeoVolta CEO Ardes Johnson Gives Expert Testimony to the US International Trade Commission Advising on Favorable Domestic Renewable Energy Policies",
+"description": "SAN DIEGO, May 17, 2024 (GLOBE NEWSWIRE) -- NEOV – , a San-Diego based leader in smart energy storage solutions, announces that Ardes Johnson, CEO of NeoVolta, Inc. was called as an expert witness to testify and advise the U.S. International Trade Commission …",
+"url": "https://biztoc.com/x/347ee83955a7a3b5",
+"urlToImage": "https://c.biztoc.com/274/og.png",
+"publishedAt": "2024-05-17T13:04:04Z",
+"content": "SAN DIEGO, May 17, 2024 (GLOBE NEWSWIRE) -- NEOV , a San-Diego based leader in smart energy storage solutions, announces that Ardes Johnson, CEO of NeoVolta, Inc. was called as an expert witness to t… [+305 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Investor's Business Daily"
+},
+"author": "Investor's Business Daily",
+"title": "Dow Jones Futures Rise: Nvidia Rival AMD Jumps On Microsoft Report; GameStop Plunges On Plan To Sell Shares",
+"description": "Nvidia rival Advanced Micro Devices rallied on a Microsoft report, while GameStop dived.",
+"url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-gamestop-stock-gme-2/",
+"urlToImage": "https://www.investors.com/wp-content/uploads/2017/03/stock-wallstreet2-031317-shutter.jpg",
+"publishedAt": "2024-05-17T13:03:18Z",
+"content": "Stock futures held at record highs Friday as the Dow Jones Industrial Average continues to flirt with the 40,000 mark. Advanced Micro Devices (AMD) rallied after a report on a deal with software tita… [+6685 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Reuters",
+"title": "Musk pushes plan to use China self-driving data to power Tesla's AI efforts",
+"description": "Filed under:\n Green,Tesla,Technology,Autonomous Vehicles,Electric\n Continue reading Musk pushes plan to use China self-driving data to power Tesla's AI efforts\nMusk pushes plan to use China self-driving data to power Tesla's AI efforts originally appeared on …",
+"url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_57e2d551-3e9e-4761-a0ca-6bc5d30c7387",
+"urlToImage": null,
+"publishedAt": "2024-05-17T13:01:00Z",
+"content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Jalopnik"
+},
+"author": "Owen Bellwood",
+"title": "Tesla Registrations Continue Falling But That Won't Stop It Dominating EV Sales",
+"description": "Good morning! It’s Friday, May 17, 2024, and this is The Morning Shift, your daily roundup of the top automotive headlines from around the world, in one place. Here are the important stories you need to know.Read more...",
+"url": "https://jalopnik.com/tesla-registrations-continue-falling-but-that-wont-stop-1851483862",
+"urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b274d9bff74cd1f2e3fa30bd9b636139.jpg",
+"publishedAt": "2024-05-17T13:00:00Z",
+"content": "Good morning! Its Friday, May 17, 2024, and this is The Morning Shift, your daily roundup of the top automotive headlines from around the world, in one place. Here are the important stories you need … [+6975 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "GlobeNewswire"
+},
+"author": "Good Company",
+"title": "Good Company Launches $30 Million Fund to Drive Innovation in Mission-Driven Startups Addressing Global Challenges",
+"description": "Israeli Venture Capital Firm Enhances Mission-Driven Focus with Second Fund, Doubling Down on Early-Stage Tech Investments Israeli Venture Capital Firm Enhances Mission-Driven Focus with Second Fund, Doubling Down on Early-Stage Tech Investments",
+"url": "https://www.globenewswire.com/news-release/2024/05/17/2884231/0/en/Good-Company-Launches-30-Million-Fund-to-Drive-Innovation-in-Mission-Driven-Startups-Addressing-Global-Challenges.html",
+"urlToImage": "https://ml.globenewswire.com/Resource/Download/b00fb2eb-e059-46e5-8108-dea4d921b7f5",
+"publishedAt": "2024-05-17T13:00:00Z",
+"content": "Tel Aviv, Israel, May 17, 2024 (GLOBE NEWSWIRE) -- \r\nGood Company, the pioneering Israeli venture capital firm specializing in building mission-driven businesses that solve the worlds biggest problem… [+3218 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "cnbc.com",
+"title": "As Tesla layoffs continue, here are 600 jobs the company cut in California",
+"description": "In an aerial view, brand new Tesla cars sit parked in a lot at the Tesla Fremont Factory on April 24, 2024 in Fremont, California. As part of Tesla's massive restructuring, the electric vehicle maker notified the California Employment Development Department t…",
+"url": "https://biztoc.com/x/f2d4d2a67c899ab9",
+"urlToImage": "https://c.biztoc.com/p/f2d4d2a67c899ab9/s.webp",
+"publishedAt": "2024-05-17T12:58:03Z",
+"content": "In an aerial view, brand new Tesla cars sit parked in a lot at the Tesla Fremont Factory on April 24, 2024 in Fremont, California.As part of Tesla's massive restructuring, the electric vehicle maker … [+295 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "[Removed]"
+},
+"author": null,
+"title": "[Removed]",
+"description": "[Removed]",
+"url": "https://removed.com",
+"urlToImage": null,
+"publishedAt": "1970-01-01T00:00:00Z",
+"content": "[Removed]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Investing.com"
+},
+"author": "Investing.com",
+"title": "NeoVolta CEO Ardes Johnson Gives Expert Testimony to the US International Trade Commission Advising on Favorable Domestic Renewable Energy Policies",
+"description": "NeoVolta CEO Ardes Johnson Gives Expert Testimony to the US International Trade Commission Advising on Favorable Domestic Renewable Energy Policies",
+"url": "https://www.investing.com/news/press-releases/neovolta-ceo-ardes-johnson-gives-expert-testimony-to-the-us-international-trade-commission-advising-on-favorable-domestic-renewable-energy-policies-93CH-3446121",
+"urlToImage": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+"publishedAt": "2024-05-17T12:56:05Z",
+"content": "Longtime industry veteran and frequent industry expert shares insights on domestic manufacturing capabilities\r\nSAN DIEGO, May 17, 2024 (GLOBE NEWSWIRE) -- (NASDAQ: NEOV)   NeoVolta Inc.\r\n, a San-Dieg… [+4984 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Futurism"
+},
+"author": "Noor Al-Sibai",
+"title": "Tesla Forced to Face Lawsuit by Drivers Who Says Elon Misled About Autopilot, FSD Capabilities",
+"description": "Repeat Offender Remember all of Elon Musk's claims that Tesla's \"Full-Self Driving\" (FSD) mode would be actually autonomous soon? Thanks to one lawsuit, he might have to pay for not making that happen. As Bloomberg reports, a California federal judge has rule…",
+"url": "https://futurism.com/the-byte/tesla-class-action-fsd-lawsuit-misleading",
+"urlToImage": "https://wp-assets.futurism.com/2024/05/tesla-class-action-fsd-lawsuit-misleading.jpg",
+"publishedAt": "2024-05-17T12:49:47Z",
+"content": "\"Tesla allegedly engaged in a systematic pattern of fraud over a long period of time.\"\r\nRepeat Offender\r\nRemember all of Elon Musk's claims that Tesla's \"Full-Self Driving\" (FSD) mode would be actual… [+2497 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Quartz India"
+},
+"author": "William Gavin",
+"title": "Tesla's Elon Musk wants to use Chinese data to boost AI-powered self-driving cars",
+"description": "Tesla’s push for growth in the world’s largest auto market is being led by CEO Elon Musk’s focus on artificial intelligence and self-driving vehicles.Read more...",
+"url": "https://qz.com/elon-musk-tesla-ev-selfdriving-avs-china-ai-data-center-1851484033",
+"urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4026ee1bf40e675e9d752e88321f7744.jpg",
+"publishedAt": "2024-05-17T12:46:00Z",
+"content": "Teslas push for growth in the worlds largest auto market is being led by CEO Elon Musks focus on artificial intelligence and self-driving vehicles.\r\nReuters, citing unnamed sources with knowledge of … [+3079 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "businessinsider.com",
+"title": "These tiny EVs are making a big impact",
+"description": "The Microlino Lite. John Keeble/Getty Images Tiny EVs like the Nissan Sakura and BYD's Seagull are challenging Tesla in Japan and China. But these minuscule motors are unlikely to come to the US anytime soon. That's a shame, as data suggests drivers would qui…",
+"url": "https://biztoc.com/x/b5c6e885ff30c7d3",
+"urlToImage": "https://c.biztoc.com/p/b5c6e885ff30c7d3/s.webp",
+"publishedAt": "2024-05-17T12:40:04Z",
+"content": "The Microlino Lite. John Keeble/Getty ImagesTiny EVs like the Nissan Sakura and BYD's Seagull are challenging Tesla in Japan and China. But these minuscule motors are unlikely to come to the US anyti… [+279 chars]"
+},
+-{
+-"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "Tom Carter",
+"title": "These tiny EVs are making a big impact",
+"description": "In markets like China, Japan, and Europe, ridiculously small EVs are proving increasingly popular, with some even challenging Tesla in sales.",
+"url": "https://www.businessinsider.com/tiny-evs-byd-seagull-cars-transport-china-us-2024-5",
+"urlToImage": "https://i.insider.com/6645dfbf9fc063e829b1947f?width=1200&format=jpeg",
+"publishedAt": "2024-05-17T12:31:23Z",
+"content": "The Microlino Lite. John Keeble/Getty Images\r\n<ul><li>Tiny EVs like the Nissan Sakura and BYD's Seagull are challenging Tesla in Japan and China. </li><li>But these minuscule motors are unlikely to c… [+3974 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": null,
+"title": "As Tesla layoffs continue, here are 600 jobs the company cut in California",
+"description": "Tesla has eliminated another 600 jobs across its operations in Fremont and Palo Alto, California.",
+"url": "https://www.cnbc.com/2024/05/17/as-tesla-layoffs-continue-here-are-600-jobs-cut-in-california.html",
+"urlToImage": null,
+"publishedAt": "2024-05-17T12:30:01Z",
+"content": "As part of Tesla's massive restructuring, the electric vehicle maker notified the California Employment Development Department this week that it's cutting approximately 600 more employees at its manu… [+3845 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Greg Moran, Forbes Councils Member, \n Greg Moran, Forbes Councils Member\n https://www.forbes.com/sites/forbesbusinesscouncil/people/gregmoran/",
+"title": "Navigating EV Business Models: What Will Drive EV Penetration In 2024?",
+"description": "With the influx of EV players entering the space over the last decade, which business models are equipped to offer enduring value?",
+"url": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/05/17/navigating-ev-business-models-what-will-drive-ev-penetration-in-2024/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6646157318196598582c5bce/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+"publishedAt": "2024-05-17T12:30:00Z",
+"content": "Greg Moran, CEO and Co-Founder of Zoomcar.\r\ngetty\r\nThe global electric vehicle (EV) market has evolved significantly over the last decade. As CEO of a mobility company focused on emerging markets, I'… [+6673 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "finance.yahoo.com",
+"title": "3 No-Brainer Artificial Intelligence (AI) Stocks to Buy Now",
+"description": "Just because an investment is obvious doesn't mean it's wrong. Here are three businesses that are clear leaders in the artificial intelligence (AI) market, which could eclipse $1.8 trillion by the end of the decade. That's up from roughly $280 billion today, …",
+"url": "https://biztoc.com/x/b6a8f3cac5e7fe35",
+"urlToImage": "https://c.biztoc.com/p/b6a8f3cac5e7fe35/s.webp",
+"publishedAt": "2024-05-17T12:22:05Z",
+"content": "Just because an investment is obvious doesn't mean it's wrong. Here are three businesses that are clear leaders in the artificial intelligence (AI) market, which could eclipse $1.8 trillion by the en… [+305 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Ibtimes.com.au"
+},
+"author": "AFP news",
+"title": "Musk Confirms Twitter Has Become X.com",
+"description": "The social network formerly known as Twitter has fully migrated over to X.com, owner Elon Musk said on Friday.",
+"url": "https://www.ibtimes.com.au/musk-confirms-twitter-has-become-xcom-1848118",
+"urlToImage": "https://d.ibtimes.com.au/en/full/1849618/elon-musk-has-repeatedly-used-letter-x-branding-his-companies-starting-1999-his-attempt-set.jpg",
+"publishedAt": "2024-05-17T12:17:23Z",
+"content": "The social network formerly known as Twitter has fully migrated over to X.com, owner Elon Musk said on Friday.\r\nThe billionaire head of Tesla, SpaceX and other companies bought Twitter for $44 billio… [+1513 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "asiafinancial.com",
+"title": "China Business Capital Okays Foreign Data Exports Sought By Tesla",
+"description": "China’s business and market capital, Shanghai, will allow companies to transfer some data overseas without security assessments. The city has compiled a list of data that it deems “ordinary” for three sectors – intelligent and connected vehicles, mutual funds…",
+"url": "https://biztoc.com/x/e5e3bfbfe824dd2e",
+"urlToImage": "https://c.biztoc.com/p/e5e3bfbfe824dd2e/s.webp",
+"publishedAt": "2024-05-17T12:12:06Z",
+"content": "Chinas business and market capital, Shanghai, will allow companies to transfer some data overseas without security assessments.The city has compiled a list of data that it deems ordinary for three se… [+281 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "benzinga.com",
+"title": "Tesla Cuts Workforce By 10% In Norway, Offers Severance Package Amid Global Restructuring",
+"description": "Tesla Inc. TSLA has announced a 10% workforce reduction in Norway, providing all affected employees with a severance package What Happened: The company had to curtail the acceptance period for the severance packages from a week to three days due to high deman…",
+"url": "https://biztoc.com/x/02c56e3b7b418ac7",
+"urlToImage": "https://c.biztoc.com/p/02c56e3b7b418ac7/s.webp",
+"publishedAt": "2024-05-17T12:08:04Z",
+"content": "Tesla Inc. TSLA has announced a 10% workforce reduction in Norway, providing all affected employees with a severance packageWhat Happened: The company had to curtail the acceptance period for the sev… [+286 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "GlobeNewswire"
+},
+"author": "Bleichmar Fonti & Auld",
+"title": "INVESTIGATION ANNOUNCEMENT BFA LLP Announces an Ongoing Investigation into the Merger between WideOpenWest and DigitalBridge Investments for Unfair Process",
+"description": "NEW YORK, May 17, 2024 (GLOBE NEWSWIRE) -- If you invested in WideOpenWest (NYSE: WOW) you are encouraged to obtain additional information by visiting https://www.bfalaw.com/cases/wideopenwest-inc-investigation, or contacting us below.",
+"url": "https://www.globenewswire.com/news-release/2024/05/17/2884206/0/en/INVESTIGATION-ANNOUNCEMENT-BFA-LLP-Announces-an-Ongoing-Investigation-into-the-Merger-between-WideOpenWest-and-DigitalBridge-Investments-for-Unfair-Process.html",
+"urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+"publishedAt": "2024-05-17T12:04:00Z",
+"content": "NEW YORK, May 17, 2024 (GLOBE NEWSWIRE) -- If you invested in WideOpenWest (NYSE: WOW) you are encouraged to obtain additional information by visiting https://www.bfalaw.com/cases/wideopenwest-inc-in… [+1941 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "GlobeNewswire"
+},
+"author": "Bleichmar Fonti & Auld",
+"title": "INVESTIGATION ANNOUNCEMENT BFA LLP Announces an Ongoing Investigation into the Directors of Ventyx Biosciences, Inc. for Potential Breaches of Fiduciary Duty",
+"description": "NEW YORK, May 17, 2024 (GLOBE NEWSWIRE) -- If you are a shareholder of Ventyx Biosciences (NASDAQ: VTYX), you are encouraged to obtain additional information by visiting https://www.bfalaw.com/cases/ventyx-biosciences-inc-investigation or contacting us below.",
+"url": "https://www.globenewswire.com/news-release/2024/05/17/2884205/0/en/INVESTIGATION-ANNOUNCEMENT-BFA-LLP-Announces-an-Ongoing-Investigation-into-the-Directors-of-Ventyx-Biosciences-Inc-for-Potential-Breaches-of-Fiduciary-Duty.html",
+"urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+"publishedAt": "2024-05-17T12:03:00Z",
+"content": "NEW YORK, May 17, 2024 (GLOBE NEWSWIRE) -- If you are a shareholder of Ventyx Biosciences (NASDAQ: VTYX), you are encouraged to obtain additional information by visiting https://www.bfalaw.com/cases/… [+1669 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Investing.com"
+},
+"author": "Investing.com",
+"title": "Reddit, Tesla and Boeing rise premarket; Take-Two, GameStop fall",
+"description": "Reddit, Tesla and Boeing rise premarket; Take-Two, GameStop fall",
+"url": "https://www.investing.com/news/stock-market-news/reddit-tesla-and-boeing-rise-premarket-taketwo-gamestop-fall-3445926",
+"urlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEH8D0RJ_L.jpg",
+"publishedAt": "2024-05-17T11:43:04Z",
+"content": "Investing.com -- U.S. stock futures traded largely flat Friday, searching for direction after the major stock indices hit record highs and as the earnings season draws to an end.<li> Reddit (NYSE:RDD… [+1394 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "aol.com",
+"title": "Tesla has 'huge hill to climb' to get Elon Musk's $56 billion pay deal approved, chair says",
+"description": "None Tesla is facing an uphill battle to get Elon Musk's $56 billion pay package approved, Tesla's chair said. • None Robyn Denholm told the Financial Times getting the necessary votes was like climbing \"Mount Everest.\" • None A Delaware judge previously stru…",
+"url": "https://biztoc.com/x/2643370448540c86",
+"urlToImage": "https://c.biztoc.com/p/2643370448540c86/s.webp",
+"publishedAt": "2024-05-17T11:42:10Z",
+"content": "None Tesla is facing an uphill battle to get Elon Musk's $56 billion pay package approved, Tesla's chair said.None Robyn Denholm told the Financial Times getting the necessary votes was like climbing… [+256 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "DPA",
+"title": "The Week in Pictures: May 10-17, 2024",
+"description": "From the ongoing conflict between Israel and Hamas, to the visit of Russian President Vladimir Putin to China and the 33rd Arab League Summit, dpa...",
+"url": "https://www.yahoo.com/news/week-pictures-may-10-17-113524177.html",
+"urlToImage": "https://media.zenfs.com/en/dpa_international_526/46aeade81b6422a5cad814baca9d882e",
+"publishedAt": "2024-05-17T11:35:24Z",
+"content": "From the ongoing conflict between Israel and Hamas, to the visit of Russian President Vladimir Putin to China and the 33rd Arab League Summit, dpa international presents its Pictures of the Week.\r\nLe… [+4766 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Investing.com"
+},
+"author": "Investing.com",
+"title": "INVESTIGATION ANNOUNCEMENT: BFA Law Announces an Ongoing Investigation into the Merger between Cerevel Therapeutics and AbbVie for Unfair Process",
+"description": "INVESTIGATION ANNOUNCEMENT: BFA Law Announces an Ongoing Investigation into the Merger between Cerevel Therapeutics and AbbVie for Unfair Process",
+"url": "https://www.investing.com/news/press-releases/investigation-announcement-bfa-law-announces-an-ongoing-investigation-into-the-merger-between-cerevel-therapeutics-and-abbvie-for-unfair-process-93CH-3445919",
+"urlToImage": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+"publishedAt": "2024-05-17T11:24:06Z",
+"content": "NEW YORK, May 17, 2024 (GLOBE NEWSWIRE) -- If you invested in Cerevel Therapeutics Holdings, Inc. (Nasdaq: CERE) you are encouraged to obtain additional information by visiting https://www.bfalaw.com… [+2329 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "aol.com",
+"title": "An engineering giant behind Apple's HQ and the Sydney Opera House lost $25 million when scammers tricked an employee with a deepfake of a senior exec",
+"description": "None Scammers used deepfakes to trick an employee at engineering firm Arup into handing over $25 million. • None The Hong Kong office employee believed that they were on a video call with the company's CFO. • None Deepfake scams are becoming more prevalent wi…",
+"url": "https://biztoc.com/x/d24fb51b55ec2d55",
+"urlToImage": "https://c.biztoc.com/p/d24fb51b55ec2d55/s.webp",
+"publishedAt": "2024-05-17T11:12:08Z",
+"content": "None Scammers used deepfakes to trick an employee at engineering firm Arup into handing over $25 million.None The Hong Kong office employee believed that they were on a video call with the company's … [+255 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "benzinga.com",
+"title": "Tesla Eyes Chinese Data Center To Boost Autonomous Driving Tech: Report",
+"description": "Tesla Inc. TSLA is reportedly advancing its strategy to enhance its self-driving system using data collected in China. The company, led by CEO Elon Musk, plans to process this data locally. Until recently, Tesla sought approval from Chinese regulators to tran…",
+"url": "https://biztoc.com/x/66030549116c8e6e",
+"urlToImage": "https://c.biztoc.com/p/66030549116c8e6e/s.webp",
+"publishedAt": "2024-05-17T11:12:05Z",
+"content": "Tesla Inc. TSLA is reportedly advancing its strategy to enhance its self-driving system using data collected in China. The company, led by CEO Elon Musk, plans to process this data locally.Until rece… [+294 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "GlobeNewswire"
+},
+"author": "Bleichmar Fonti & Auld",
+"title": "INVESTIGATION ANNOUNCEMENT: BFA Law Announces an Ongoing Investigation into the Merger between Cerevel Therapeutics and AbbVie for Unfair Process",
+"description": "NEW YORK, May 17, 2024 (GLOBE NEWSWIRE) -- If you invested in Cerevel Therapeutics Holdings, Inc. (Nasdaq: CERE) you are encouraged to obtain additional information by visiting https://www.bfalaw.com/cases/cerevel-therapeutics-holdings-inc-investigation or co…",
+"url": "https://www.globenewswire.com/news-release/2024/05/17/2884136/0/en/INVESTIGATION-ANNOUNCEMENT-BFA-Law-Announces-an-Ongoing-Investigation-into-the-Merger-between-Cerevel-Therapeutics-and-AbbVie-for-Unfair-Process.html",
+"urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+"publishedAt": "2024-05-17T11:12:00Z",
+"content": "NEW YORK, May 17, 2024 (GLOBE NEWSWIRE) -- If you invested in Cerevel Therapeutics Holdings, Inc. (Nasdaq: CERE) you are encouraged to obtain additional information by visiting https://www.bfalaw.com… [+2180 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "GlobeNewswire"
+},
+"author": "Bleichmar Fonti & Auld",
+"title": "LAWSUIT ANNOUNCEMENT: BFA Law Encourages Sprout Social Investors to Contact the Firm About the Pending Lawsuit",
+"description": "NEW YORK, May 17, 2024 (GLOBE NEWSWIRE) -- If you invested in Sprout Social (Nasdaq: SPT), you are encouraged to obtain additional information by visiting https://www.bfalaw.com/cases/sprout-social-inc-investigation or contacting us below.",
+"url": "https://www.globenewswire.com/news-release/2024/05/17/2884134/0/en/LAWSUIT-ANNOUNCEMENT-BFA-Law-Encourages-Sprout-Social-Investors-to-Contact-the-Firm-About-the-Pending-Lawsuit.html",
+"urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+"publishedAt": "2024-05-17T11:07:00Z",
+"content": "NEW YORK, May 17, 2024 (GLOBE NEWSWIRE) -- If you invested in Sprout Social (Nasdaq: SPT), you are encouraged to obtain additional information by visiting https://www.bfalaw.com/cases/sprout-social-i… [+2411 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "GlobeNewswire"
+},
+"author": "Bleichmar Fonti & Auld",
+"title": "INVESTIGATION ANNOUNCEMENT: BFA Law Announces an Ongoing Investigation into the Buyout of Squarespace by Permira for Unfair Process",
+"description": "NEW YORK, May 17, 2024 (GLOBE NEWSWIRE) -- If you invested in Squarespace (NYSE: SQSP) you are encouraged to obtain additional information by visiting https://www.bfalaw.com/cases/squarespace-inc-investigation, or contacting us below.",
+"url": "https://www.globenewswire.com/news-release/2024/05/17/2884133/0/en/INVESTIGATION-ANNOUNCEMENT-BFA-Law-Announces-an-Ongoing-Investigation-into-the-Buyout-of-Squarespace-by-Permira-for-Unfair-Process.html",
+"urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+"publishedAt": "2024-05-17T11:07:00Z",
+"content": "NEW YORK, May 17, 2024 (GLOBE NEWSWIRE) -- If you invested in Squarespace (NYSE: SQSP) you are encouraged to obtain additional information by visiting https://www.bfalaw.com/cases/squarespace-inc-inv… [+2081 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "investorplace.com",
+"title": "Wedbush Just Slashed Its Price Target on These 3 Stocks",
+"description": "Should you take heed or ignore Wedbush's latest lowered price targets? Widely known for its coverage of popular growth stocks like Tesla (NASDAQ:TSLA), much like the old E.F. Hutton slogan, when Wedbush Securities talks, people listen. As such, many in the ma…",
+"url": "https://biztoc.com/x/7829336d1f12f4bb",
+"urlToImage": "https://c.biztoc.com/p/7829336d1f12f4bb/s.webp",
+"publishedAt": "2024-05-17T11:06:14Z",
+"content": "Should you take heed or ignore Wedbush's latest lowered price targets?Widely known for its coverage of popular growth stocks like Tesla (NASDAQ:TSLA), much like the old E.F. Hutton slogan, when Wedbu… [+299 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "investorplace.com",
+"title": "Rev Your Engines: Why Toyota Is the Best Auto Stock to Own Now",
+"description": "No other automaker can match the Japanese company's record of success A successful focus on gas-electric hybrid vehicles has led to Toyota Motor Corp.’s (NYSE:TM) sales and profits surging, making TM stock the best automotive buy out there. In the last 12 mon…",
+"url": "https://biztoc.com/x/4b7d9419c9caaa53",
+"urlToImage": "https://c.biztoc.com/p/4b7d9419c9caaa53/s.webp",
+"publishedAt": "2024-05-17T11:06:11Z",
+"content": "No other automaker can match the Japanese company's record of successA successful focus on gas-electric hybrid vehicles has led to Toyota Motor Corp.s (NYSE:TM) sales and profits surging, making TM s… [+299 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "asia.nikkei.com",
+"title": "Panasonic says EV market slowdown in U.S. worse than expected",
+"description": "TOKYO -- Japan's Panasonic Holdings said on Friday that its EV battery arm will likely miss its initial profitability target due to a worse-than-expected slowdown in the North American market for electric vehicles. \"There was an unexpected steep decline in de…",
+"url": "https://biztoc.com/x/9a22a3617f5f72a4",
+"urlToImage": "https://c.biztoc.com/p/9a22a3617f5f72a4/s.webp",
+"publishedAt": "2024-05-17T11:04:05Z",
+"content": "TOKYO -- Japan's Panasonic Holdings said on Friday that its EV battery arm will likely miss its initial profitability target due to a worse-than-expected slowdown in the North American market for ele… [+291 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "businessinsider.com",
+"title": "Tesla has 'huge hill to climb' to get Elon Musk's $56 billion pay deal approved, chair says",
+"description": "By clicking “Sign Up”, you accept our Terms of Service and Privacy Policy . You can opt-out at any time. Access your favorite topics in a personalized feed while you're on the go. download the app Sign up to get the inside scoop on today’s biggest stories in …",
+"url": "https://biztoc.com/x/802bebd5dd25751f",
+"urlToImage": "https://c.biztoc.com/p/802bebd5dd25751f/s.webp",
+"publishedAt": "2024-05-17T11:02:04Z",
+"content": "By clicking Sign Up, you accept our Terms of Service and Privacy Policy . You can opt-out at any time.Access your favorite topics in a personalized feed while you're on the go. download the appSign u… [+290 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "247wallst.com",
+"title": "Is Elon Musk Worth $56 Billion?",
+"description": "24/7 Insights: Shareholders will soon vote on Elon Musk’s compensation package. Investors may judge what Musk is worth based on the price of their shares. Tesla Inc. (NASDAQ: TSLA) investors will soon vote on CEO Elon Musk’s $56 billion pay package. The packa…",
+"url": "https://biztoc.com/x/2b7084b1c260386b",
+"urlToImage": "https://c.biztoc.com/p/2b7084b1c260386b/s.webp",
+"publishedAt": "2024-05-17T11:00:07Z",
+"content": "24/7 Insights:Shareholders will soon vote on Elon Musks compensation package.Investors may judge what Musk is worth based on the price of their shares.Tesla Inc. (NASDAQ: TSLA) investors will soon vo… [+269 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "zerohedge.com",
+"title": "Former Greenlight Employee Offers To Debate David Einhorn Over Merits Of Tesla Short",
+"description": "Former Greenlight Employee Offers To Debate David Einhorn Over Merits Of Tesla Short A former Greenlight Capital employee, who is embroiled in a lawsuit against his former employer for defamation, claims the firm \"fundamentally misunderestimates\" Tesla and is…",
+"url": "https://biztoc.com/x/06b96339cf27a12d",
+"urlToImage": "https://c.biztoc.com/p/06b96339cf27a12d/s.webp",
+"publishedAt": "2024-05-17T11:00:05Z",
+"content": "Former Greenlight Employee Offers To Debate David Einhorn Over Merits Of Tesla Short\r\nA former Greenlight Capital employee, who is embroiled in a lawsuit against his former employer for defamation, c… [+296 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "PCMag.com"
+},
+"author": "Kate Irwin",
+"title": "Elon Musk's X Changes Its Domain Name",
+"description": "Goodbye, Twitter dot com. The social media site finalizes its rebrand to X using a domain name Musk first bought back in 1999.\nAfter years of transition and a branding overhaul under owner Elon Musk, Twitter has finally changed its domain name to X.com. The c…",
+"url": "https://me.pcmag.com/en/social-media-1/23658/elon-musks-x-changes-its-domain-name",
+"urlToImage": "https://sm.pcmag.com/t/pcmag_me/news/e/elon-musks/elon-musks-x-changes-its-domain-name_e4hm.1200.jpg",
+"publishedAt": "2024-05-17T10:58:57Z",
+"content": "After years of transition and a branding overhaul under owner Elon Musk, Twitter has finally changed its domain name to X.com. The change went live early Friday morning, notifying users upon loading … [+1885 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "PCMag.com"
+},
+"author": "Kate Irwin",
+"title": "Elon Musk's X Changes Its Domain Name",
+"description": "Goodbye, Twitter dot com. The social media site finalizes its rebrand to X using a domain name Musk first bought back in 1999.\nAfter years of transition and a branding overhaul under owner Elon Musk, Twitter has finally changed its domain name to X.com. The c…",
+"url": "https://uk.pcmag.com/social-media/152379/elon-musks-x-changes-its-domain-name",
+"urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/e/elon-musks/elon-musks-x-changes-its-domain-name_nh2h.1200.jpg",
+"publishedAt": "2024-05-17T10:58:57Z",
+"content": "After years of transition and a branding overhaul under owner Elon Musk, Twitter has finally changed its domain name to X.com. The change went live early Friday morning, notifying users upon loading … [+1885 chars]"
+},
+-{
+-"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "Beatrice Nolan",
+"title": "Tesla has 'huge hill to climb' to get Elon Musk's $56 billion pay deal approved, chair says",
+"description": "Winning shareholder backing for Elon Musk's huge compensation package is like climbing \"Mount Everest,\" chair Robyn Denholm told the Financial Times.",
+"url": "https://www.businessinsider.com/tesla-elon-musk-pay-56-billion-approved-shareholders-robyn-denholm-2024-5",
+"urlToImage": "https://i.insider.com/664730c214fb5b23cc5d8910?width=1200&format=jpeg",
+"publishedAt": "2024-05-17T10:58:11Z",
+"content": "Elon Musk.Tayfun Coskun/Anadolu via Getty Images\r\n<ul><li>Tesla is facing an uphill battle to get Elon Musk's $56 billion pay package approved, Tesla's chair said.</li><li>Robyn Denholm told the Fina… [+2287 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Investor's Business Daily"
+},
+"author": "Investor's Business Daily",
+"title": "Dow Futures: S&P 500 Near Highs; AMD Rises On Microsoft Report, Reddit Soars On OpenAI Deal",
+"description": "The major indexes are just below record highs.",
+"url": "https://www.investors.com/market-trend/stock-market-today/dow-futures-sp-500-amd-rises-on-microsoft-report-reddit-soars-on-openai-deal/",
+"urlToImage": "https://www.investors.com/wp-content/uploads/2023/02/Stock-Chip-glows-adobe.jpg",
+"publishedAt": "2024-05-17T10:53:44Z",
+"content": "Dow Jones futures were little changed Friday morning along with S&amp;P 500 futures and Nasdaq futures. Applied Materials (AMAT), Reddit (RDDT) and Advanced Micro Devices (AMD)\r\nXThe stock market ral… [+4028 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Marketscreener.com"
+},
+"author": null,
+"title": "Elon Musk Pushes Plan for China Data to Power Tesla's AI Push, Reuters Reports",
+"description": "(marketscreener.com) \n --Tesla is developing a plan for a data center in China to train the algorithm needed for fully autonomous vehicles, Reuters reports, citing people with knowledge of the matter. \n\n --The EV company would need to transfer driving data be…",
+"url": "https://www.marketscreener.com/business-leaders/ELON-MUSK-1364/news/Elon-Musk-Pushes-Plan-for-China-Data-to-Power-Tesla-s-AI-Push-Reuters-Reports-46758844/",
+"urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+"publishedAt": "2024-05-17T10:52:18Z",
+"content": "--Tesla is developing a plan for a data center in China to train the algorithm needed for fully autonomous vehicles, Reuters reports, citing people with knowledge of the matter. \r\n--The EV company wo… [+558 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "asiafinancial.com",
+"title": "Musk May Build China Data Centre for Tesla Self Driving System",
+"description": "Tesla is working on plans for a data centre in China to develop its self-driving system, sources say. In a strategic shift by Tesla chief Elon Musk, data from China could be processed within the country, people with knowledge of the work have revealed. As par…",
+"url": "https://biztoc.com/x/8e26bdc1852f63a3",
+"urlToImage": "https://c.biztoc.com/p/8e26bdc1852f63a3/s.webp",
+"publishedAt": "2024-05-17T10:48:06Z",
+"content": "Tesla is working on plans for a data centre in China to develop its self-driving system, sources say.In a strategic shift by Tesla chief Elon Musk, data from China could be processed within the count… [+274 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Investing.com"
+},
+"author": "Investing.com",
+"title": "Tesla eyeing plan for China data to power self-driving ambitions - Reuters",
+"description": "Tesla eyeing plan for China data to power self-driving ambitions - Reuters",
+"url": "https://www.investing.com/news/stock-market-news/tesla-eyeing-plan-for-china-data-to-power-selfdriving-ambitions--reuters-3445809",
+"urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEE310MM_L.jpg",
+"publishedAt": "2024-05-17T10:47:43Z",
+"content": "Investing.com -- Tesla is moving forward with plans to use data from China to underpin the global development of its self-driving technology, Reuters reported on Friday, citing people with knowledge … [+1018 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "cbsnews.com",
+"title": "Elon Musk confirms Twitter's transformation is complete. It's now X.com",
+"description": "Artificial intelligence, Elon Musk and the biggest tech stories of 2023 The social network formerly known as Twitter has fully migrated over to X.com, owner Elon Musk said Friday. The billionaire head of Tesla, SpaceX and other companies bought Twitter for $4…",
+"url": "https://biztoc.com/x/5fc6e7bb2e829487",
+"urlToImage": "https://c.biztoc.com/p/5fc6e7bb2e829487/s.webp",
+"publishedAt": "2024-05-17T10:46:08Z",
+"content": "Artificial intelligence, Elon Musk and the biggest tech stories of 2023The social network formerly known as Twitter has fully migrated over to X.com, owner Elon Musk said Friday.The billionaire head … [+273 chars]"
+},
+-{
+-"source": {
+"id": "cbs-news",
+"name": "CBS News"
+},
+"author": null,
+"title": "Elon Musk confirms Twitter's transformation is complete. It's now X.com.",
+"description": "Twitter has fully migrated over to X.com, owner Elon Musk says. Although the logo and branding had already changed to \"X,\" the domain name was still Twitter.com.",
+"url": "https://www.cbsnews.com/news/elon-musk-confirms-twitters-transformation-complete-its-now-x-com/",
+"urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/05/17/ea3d6be9-5df5-4f4d-a225-c6329603e4d6/thumbnail/1200x630/f7c4d72b5ea5eca2798391cb44b4ea46/x-com-screenshot-051724.jpg?v=dac66bdad19d0be8e87f46552b582682",
+"publishedAt": "2024-05-17T10:39:21Z",
+"content": "The social network formerly known as Twitter has fully migrated over to X.com, owner Elon Musk said Friday. \r\nThe billionaire head of Tesla, SpaceX and other companies bought Twitter for $44 billion … [+1521 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "businessinsider.com",
+"title": "An engineering giant behind Apple's HQ and the Sydney Opera House lost $25 million when scammers tricked an employee with a deepfake of a senior exec",
+"description": "An employee at the company's Hong Kong office was subject to the scam. moodboard/Getty Images Scammers used deepfakes to trick an employee at engineering firm Arup into handing over $25 million. The Hong Kong office employee believed that they were on a video…",
+"url": "https://biztoc.com/x/6ad3fe9e0eaf6643",
+"urlToImage": "https://c.biztoc.com/p/6ad3fe9e0eaf6643/s.webp",
+"publishedAt": "2024-05-17T10:20:05Z",
+"content": "An employee at the company's Hong Kong office was subject to the scam.moodboard/Getty ImagesScammers used deepfakes to trick an employee at engineering firm Arup into handing over $25 million.The Hon… [+283 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Securityaffairs.com"
+},
+"author": "Pierluigi Paganini",
+"title": "CISA adds D-Link DIR router flaws to its Known Exploited Vulnerabilities catalog",
+"description": "CISA adds two D-Link DIR-600 and DIR-605 router vulnerabilities to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the following D-Link router vulnerabilities to its Known Exploited Vulnerabi…",
+"url": "https://securityaffairs.com/163289/security/cisa-d-link-dir-known-exploited-vulnerabilities-catalog.html",
+"urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+"publishedAt": "2024-05-17T10:20:01Z",
+"content": "CISA adds D-Link DIR router flaws to its Known Exploited Vulnerabilities catalog\r\n | \r\nCISA adds Google Chrome zero-days to its Known Exploited Vulnerabilities catalog\r\n | North Korea-linked Kimsuky … [+69284 chars]"
+},
+-{
+-"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "Alexandra Bacon",
+"title": "An engineering giant behind Apple's HQ and the Sydney Opera House lost $25 million when scammers tricked an employee with a deepfake of a senior exec",
+"description": "Scammers used deepfakes to scam an employee in the Hong Kong office earlier this year, costing UK-based engineering giant Arup $25 million.",
+"url": "https://www.businessinsider.com/engineering-giant-arup-target-of-25-million-deepfake-scam-2024-5",
+"urlToImage": "https://i.insider.com/6647263920abc1efe8fad98f?width=1200&format=jpeg",
+"publishedAt": "2024-05-17T10:14:14Z",
+"content": "An employee at the company's Hong Kong office was subject to the scam.moodboard/Getty Images\r\n<ul><li>Scammers used deepfakes to trick an employee at engineering firm Arup into handing over $25 milli… [+2665 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Julie Hyman",
+"title": "A surging stock market may not need a catalyst — but it's getting one",
+"description": "As the stock market flirts with another round of all-time highs, the Nvidia earnings are just around the corner — and analyst expectations are high, once...",
+"url": "https://finance.yahoo.com/news/a-surging-stock-market-may-not-need-a-catalyst--but-its-getting-one-100459469.html",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/hXZzZ5zPLPDyOA0.u76rLg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/92173be0-13d6-11ef-acde-5ab76330cab8",
+"publishedAt": "2024-05-17T10:04:59Z",
+"content": "This is The Takeaway from today's Morning Brief, which you can sign up to receive in your inbox every morning along with:\r\n<ul><li>The chart of the day\r\n</li><li>What we're watching\r\n</li><li>What we… [+3211 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "barrons.com",
+"title": "Tesla Shrugs Off Legal Problems. Why They Are No Surprise",
+"description": "Tesla stock rose 0.5% while the market dropped on Thursday. Coming into Friday trading, shares have gained about 4% for the week.",
+"url": "https://biztoc.com/x/5f8a1535a77decfb",
+"urlToImage": "https://c.biztoc.com/p/5f8a1535a77decfb/s.webp",
+"publishedAt": "2024-05-17T10:04:10Z",
+"content": "Tesla stock rose 0.5% while the market dropped on Thursday. Coming into Friday trading, shares have gained about 4% for the week.\r\nThis story appeared on barrons.com, ."
+},
+-{
+-"source": {
+"id": null,
+"name": "TheJournal.ie"
+},
+"author": "Muiris O'Cearbhaill",
+"title": "Twitter.com is now, officially, a thing of the past",
+"description": "All core systems at the social media firm have now moved over to X.com, according to owner Elon Musk",
+"url": "https://www.thejournal.ie/twitter-com-is-gone-6382338-May2024/",
+"urlToImage": "https://img2.thejournal.ie/article/6382338/river/?height=400&version=6382362",
+"publishedAt": "2024-05-17T10:02:38Z",
+"content": "THE URL TWITTER.COM is now, officially, a thing of the past as all services have now been moved to X.com.\r\nElon Musk, the billionaire owner of the micro-blogging platform, which has been one of the m… [+1917 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "finance.yahoo.com",
+"title": "Forget Tesla: I Think This Stock Should Replace It in the \"Magnificent Seven\"",
+"description": "Thanks to its monumental growth over the years, Tesla (NASDAQ: TSLA) has become one of Wall Street's top performers. Shares of the electric vehicle (EV) business have soared a jaw-dropping 1,300% just in the last decade, easily outpacing the broader Nasdaq Co…",
+"url": "https://biztoc.com/x/0091deb38cac19b5",
+"urlToImage": "https://c.biztoc.com/p/0091deb38cac19b5/s.webp",
+"publishedAt": "2024-05-17T10:02:05Z",
+"content": "Thanks to its monumental growth over the years, Tesla (NASDAQ: TSLA) has become one of Wall Street's top performers. Shares of the electric vehicle (EV) business have soared a jaw-dropping 1,300% jus… [+297 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "seattletimes.com",
+"title": "German council approves a revised plan by Tesla to expand its plant near Berlin",
+"description": "A local council in Germany has approved a plan by electric carmaker Tesla to expand the grounds of its first plant in Europe, a proposal which has drawn persistent protests this year.#tesla",
+"url": "https://biztoc.com/x/64187348c577dfac",
+"urlToImage": "https://c.biztoc.com/p/64187348c577dfac/s.webp",
+"publishedAt": "2024-05-17T09:59:06Z",
+"content": "A local council in Germany has approved a plan by electric carmaker Tesla to expand the grounds of its first plant in Europe, a proposal which has drawn persistent protests this year.\r\n#tesla\r\nThis s… [+35 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "coinpedia.org",
+"title": "Dogecoin Reaches Important 5.6 Billion Support, Cardano Killer Set For Massive Rally",
+"description": "The post Dogecoin Reaches Important 5.6 Billion Support, Cardano Killer Set For Massive Rally appeared first on Coinpedia Fintech News While Dogecoin (DOGE) has experienced a substantial price drop and has now reached a crucial support level, Cardano killer E…",
+"url": "https://biztoc.com/x/3e50b0f10f71f257",
+"urlToImage": "https://c.biztoc.com/p/3e50b0f10f71f257/s.webp",
+"publishedAt": "2024-05-17T09:58:09Z",
+"content": "The post Dogecoin Reaches Important 5.6 Billion Support, Cardano Killer Set For Massive Rally appeared first on Coinpedia Fintech NewsWhile Dogecoin (DOGE) has experienced a substantial price drop an… [+300 chars]"
+},
+-{
+-"source": {
+"id": "the-irish-times",
+"name": "The Irish Times"
+},
+"author": "Stephen Morris and Tabby Kinder",
+"title": "Tesla must climb ‘Mount Everest’ to win shareholder vote, chair warns",
+"description": "Robyn Denholm outlines stakes for carmaker and says the idea she is too close to Elon Musk is ‘crap",
+"url": "https://www.irishtimes.com/business/2024/05/17/tesla-must-climb-mount-everest-to-win-shareholder-vote-chair-warns/",
+"urlToImage": "https://www.irishtimes.com/resizer/Bdm8so1j7szmG-WqJ05jS4HtDEs=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/BU4OTCELEZC67AQLZAOR4TCLQ4.jpg",
+"publishedAt": "2024-05-17T09:57:33Z",
+"content": "Teslas chair has said the carmaker needs to climb Mount Everest as it faces shareholder votes on relocating to Texas and Elon Musks $56 billion () pay deal, while dismissing criticism she is too clos… [+4392 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Tech Xplore"
+},
+"author": "Science X",
+"title": "Musk confirms Twitter has become X.com",
+"description": "The social network formerly known as Twitter has fully migrated over to X.com, owner Elon Musk said on Friday.",
+"url": "https://techxplore.com/news/2024-05-musk-twitter-xcom.html",
+"urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/elon-musk-has-repeated.jpg",
+"publishedAt": "2024-05-17T09:54:00Z",
+"content": "The social network formerly known as Twitter has fully migrated over to X.com, owner Elon Musk said on Friday.\r\nThe billionaire head of Tesla, SpaceX and other companies bought Twitter for $44 billio… [+1911 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "aol.com",
+"title": "How Chevrolet thinks it can beat Tesla in the new EV market",
+"description": "None Chevrolet is ready for the new wave of EV customers. • None The stalwart Detroit brand is ready to close the gap with Tesla. • None The electric Silverado and Equinox are about to join Chevy's growing EV lineup. Chevrolet is just getting started on its t…",
+"url": "https://biztoc.com/x/639f6032d2ea1ea5",
+"urlToImage": "https://c.biztoc.com/p/639f6032d2ea1ea5/s.webp",
+"publishedAt": "2024-05-17T09:34:06Z",
+"content": "None Chevrolet is ready for the new wave of EV customers.None The stalwart Detroit brand is ready to close the gap with Tesla.None The electric Silverado and Equinox are about to join Chevy's growing… [+269 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "wired.com",
+"title": "Tesla’s Controversial Factory Expansion Is Approved",
+"description": "The controversial expansion of Tesla’s only European Gigafactory was approved on Thursday, as the local council in the German municipality of Grünheide voted in favor of the carmaker’s plans to grow its facility near Berlin. The majority of 19 council represe…",
+"url": "https://biztoc.com/x/732d808303e92da3",
+"urlToImage": "https://c.biztoc.com/p/732d808303e92da3/og.webp",
+"publishedAt": "2024-05-17T09:28:05Z",
+"content": "The controversial expansion of Teslas only European Gigafactory was approved on Thursday, as the local council in the German municipality of Grünheide voted in favor of the carmakers plans to grow it… [+297 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "NDTV News"
+},
+"author": null,
+"title": "Twitter Is Now Completely Operational As X Says Elon Musk",
+"description": "The social network formerly known as Twitter has fully migrated over to X.com, owner Elon Musk said on Friday.",
+"url": "https://www.ndtv.com/world-news/twitter-is-now-completely-operational-as-x-says-elon-musk-5683711",
+"urlToImage": "https://c.ndtvimg.com/2023-07/5ed0skpo_elon-musk-twitter-headquarters-1200_625x300_24_July_23.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240506.08",
+"publishedAt": "2024-05-17T09:23:42Z",
+"content": "When Elon Musk bought Twitter, he set up a company called X Corp to close the deal. (File)\r\nParis, France: The social network formerly known as Twitter has fully migrated over to X.com, owner Elon Mu… [+1744 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "NDTV News"
+},
+"author": null,
+"title": "Elon Musk Says Humans Will Be \"Living In A City On Mars\" In Next 30 Years",
+"description": "In February, Elon Musk had shared his \"game plan\" to relocate one million people to the Red Planet.",
+"url": "https://www.ndtv.com/feature/elon-musk-says-humans-will-be-living-in-a-city-on-mars-in-next-30-years-5683708",
+"urlToImage": "https://c.ndtvimg.com/2024-04/elbr9jfg_elon-musk_625x300_29_April_24.jpeg",
+"publishedAt": "2024-05-17T09:23:05Z",
+"content": "Elon Musk has repeatedly said that he wants to make humanity a \"multi-planetary species\".\r\nSpaceX chief Elon Musk has said that humans could be living in a city on Mars in the next 30 years. Respondi… [+1585 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "aol.com",
+"title": "Musk pushes plan for China data to power Tesla's AI ambitions",
+"description": "SHANGHAI/SINGAPORE (Reuters) -Tesla is pushing ahead with plans to power the global development of its self-driving system with data from China that could be processed within the country, part of a strategic shift by Elon Musk, according to people with knowle…",
+"url": "https://biztoc.com/x/ece97303df509ac3",
+"urlToImage": "https://c.biztoc.com/p/ece97303df509ac3/s.webp",
+"publishedAt": "2024-05-17T09:20:08Z",
+"content": "SHANGHAI/SINGAPORE (Reuters) -Tesla is pushing ahead with plans to power the global development of its self-driving system with data from China that could be processed within the country, part of a s… [+269 chars]"
+},
+-{
+-"source": {
+"id": "abc-news",
+"name": "ABC News"
+},
+"author": "The Associated Press",
+"title": "German council approves a revised plan by Tesla to expand its plant near Berlin",
+"description": "A local council in Germany has approved a plan by electric carmaker Tesla to expand the grounds of its first plant in Europe, a proposal which has drawn persistent protests this year",
+"url": "https://abcnews.go.com/International/wireStory/german-council-approves-revised-plan-tesla-expand-plant-110331075",
+"urlToImage": "https://i.abcnewsfe.com/a/c4499182-8c7d-4028-acbf-1704daa325f2/wirestory_d5cae9969c591c113f867738fcf7ca35_16x9.jpg?w=1600",
+"publishedAt": "2024-05-17T09:18:26Z",
+"content": "BERLIN -- A local council in Germany approved a plan by electric carmaker Tesla to expand the grounds of its first plant in Europe, a proposal which has drawn persistent protests this year.\r\nCouncilo… [+1666 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": null,
+"title": "Forget Tesla: I Think This Stock Should Replace It in the \"Magnificent Seven\"",
+"description": null,
+"url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0b2f19cd-d07c-44ff-8c20-d40f21f13f5e",
+"urlToImage": null,
+"publishedAt": "2024-05-17T09:15:00Z",
+"content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+},
+-{
+-"source": {
+"id": "abc-news",
+"name": "ABC News"
+},
+"author": "The Associated Press",
+"title": "German council approves a revised plan by Tesla to expand its plant near Berlin",
+"description": "A local council in Germany has approved a plan by electric carmaker Tesla to expand the grounds of its first plant in Europe, a proposal which has drawn persistent protests this year",
+"url": "https://abcnews.go.com/Business/wireStory/german-council-approves-revised-plan-tesla-expand-plant-110331076",
+"urlToImage": "https://i.abcnewsfe.com/a/c4499182-8c7d-4028-acbf-1704daa325f2/wirestory_d5cae9969c591c113f867738fcf7ca35_16x9.jpg?w=1600",
+"publishedAt": "2024-05-17T09:10:31Z",
+"content": "BERLIN -- A local council in Germany approved a plan by electric carmaker Tesla to expand the grounds of its first plant in Europe, a proposal which has drawn persistent protests this year.\r\nCouncilo… [+1666 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "businessinsider.com",
+"title": "How Chevrolet thinks it can beat Tesla in the new EV market",
+"description": "By clicking “Sign Up”, you accept our Terms of Service and Privacy Policy . You can opt-out at any time. Access your favorite topics in a personalized feed while you're on the go. download the app Sign up to get the inside scoop on today’s biggest stories in …",
+"url": "https://biztoc.com/x/d8fc2fe008b502e5",
+"urlToImage": "https://c.biztoc.com/p/d8fc2fe008b502e5/s.webp",
+"publishedAt": "2024-05-17T09:10:04Z",
+"content": "By clicking Sign Up, you accept our Terms of Service and Privacy Policy . You can opt-out at any time.Access your favorite topics in a personalized feed while you're on the go. download the appSign u… [+295 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "apnews.com",
+"title": "German council approves a revised plan by Tesla to expand its plant near Berlin",
+"description": "A local council in Germany approved a plan by electric carmaker Tesla to expand the grounds of its first plant in Europe, a proposal which has drawn persistent protests this year. Councilors in the Gruenheide municipality, just outside Berlin, voted 11-6 Thur…",
+"url": "https://biztoc.com/x/80e1704781249828",
+"urlToImage": "https://c.biztoc.com/p/80e1704781249828/s.webp",
+"publishedAt": "2024-05-17T09:06:04Z",
+"content": "A local council in Germany approved a plan by electric carmaker Tesla to expand the grounds of its first plant in Europe, a proposal which has drawn persistent protests this year.Councilors in the Gr… [+295 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Reuters",
+"title": "UAW's influence tested in pivotal Alabama Mercedes-Benz factory union vote",
+"description": "The outcome of a vote on Friday by workers at a Mercedes-Benz factory in Alabama will be a key referendum on whether the United Auto Workers can maintain momentum in the historically anti-union South. The UAW hopes to continue a run that includes an overwhelm…",
+"url": "https://finance.yahoo.com/news/uaws-influence-tested-pivotal-alabama-090354098.html",
+"urlToImage": "https://media.zenfs.com/en/reuters-finance.com/37e6ce5bf639654e371d534d3ea87028",
+"publishedAt": "2024-05-17T09:03:54Z",
+"content": "By Nora Eckert\r\nVANCE, Alabama (Reuters) - The outcome of a vote on Friday by workers at a Mercedes-Benz factory in Alabama will be a key referendum on whether the United Auto Workers can maintain mo… [+4898 chars]"
+},
+-{
+-"source": {
+"id": "financial-post",
+"name": "Financial Post"
+},
+"author": "The Associated Press",
+"title": "German council approves a revised plan by Tesla to expand its plant near Berlin",
+"description": "BERLIN (AP) — A local council in Germany approved a plan by electric carmaker Tesla to expand the grounds of its first plant in Europe, a proposal which has drawn persistent protests this year. Councilors in the Gruenheide municipality, just outside Berlin, v…",
+"url": "https://financialpost.com/pmn/business-pmn/german-council-approves-a-revised-plan-by-tesla-to-expand-its-plant-near-berlin",
+"urlToImage": null,
+"publishedAt": "2024-05-17T09:03:36Z",
+"content": "BERLIN (AP) A local council in Germany approved a plan by electric carmaker Tesla to expand the grounds of its first plant in Europe, a proposal which has drawn persistent protests this year.\r\nCounci… [+1663 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "investing.com",
+"title": "Baidu: MS downgrades to ‘equal-weight’ on weak ads, sluggish AI monetization By",
+"description": "Investing.com-- Baidu Inc (HK: ) (NASDAQ: ) was downgraded by Morgan Stanley on Friday, with the brokerage citing a weak outlook for the Chinese internet firm’s advertising revenues, while monetization of its artificial intelligence forays is also expected to…",
+"url": "https://biztoc.com/x/d09a1f3f1b3344e5",
+"urlToImage": "https://c.biztoc.com/p/d09a1f3f1b3344e5/s.webp",
+"publishedAt": "2024-05-17T09:02:08Z",
+"content": "Investing.com-- Baidu Inc (HK: ) (NASDAQ: ) was downgraded by Morgan Stanley on Friday, with the brokerage citing a weak outlook for the Chinese internet firms advertising revenues, while monetizatio… [+273 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Minneapolis Star Tribune"
+},
+"author": "Star Tribune Staff",
+"title": "German council approves a revised plan by Tesla to expand its plant near Berlin",
+"description": "A local council in Germany approved a plan by electric carmaker Tesla to expand the grounds of its first plant in Europe, a proposal which has drawn persistent protests this year.",
+"url": "https://www.startribune.com/german-council-approves-a-revised-plan-by-tesla-to-expand-its-plant-near-berlin/600366645/",
+"urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1715794744",
+"publishedAt": "2024-05-17T09:02:03Z",
+"content": "BERLIN A local council in Germany approved a plan by electric carmaker Tesla to expand the grounds of its first plant in Europe, a proposal which has drawn persistent protests this year.\r\nCouncilors … [+1678 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "The Canadian Press",
+"title": "German council approves a revised plan by Tesla to expand its plant near Berlin",
+"description": "BERLIN (AP) — A local council in Germany approved a plan by electric carmaker Tesla to expand the grounds of its first plant in Europe, a proposal which has drawn persistent protests this year. Councilors in the Gruenheide municipality, just outside Berlin, v…",
+"url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0e5506ef-d999-435b-9b85-c287ba24f5bb",
+"urlToImage": null,
+"publishedAt": "2024-05-17T09:01:56Z",
+"content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+}
+]
+}
+export default staticData;
